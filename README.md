@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Bakhshi</h1>
-<h3 align="center">Backend Developer | Python & Django | M.Sc. Informatik @ TU Darmstadt</h3>
+<h3 align="center">Backend Developer and Machine Learning | Python & Django | M.Sc. Informatik @ TU Darmstadt</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AliBakhshi274&label=Profile%20views&color=0e75b6&style=flat" alt="AliBakhshi274" />
