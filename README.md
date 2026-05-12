@@ -1,60 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ali Bakhshi</h1>
-<h3 align="center">Backend Developer and Machine Learning | Python & Django | M.Sc. Informatik @ TU Darmstadt</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliBakhshi274&label=Profile%20views&color=0e75b6&style=flat" alt="AliBakhshi274" />
-</p>
+  <!-- 1. Hero Banner (Replace the link with your own banner design) -->
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" alt="Cybersecurity and Code Header" width="100%" style="border-radius: 15px;"/>
+  
+  <br/><br/>
 
----
+  <!-- 2. Name & Animated Typing Effect -->
+  <h1>Ali Bakhshi</h1>
+  
+  <a href="https://github.com/AliBakhshi274">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=Software+Engineer;M.Sc.+IT-Security+Student;Linux+Administrator;Android+Plugin+Developer" alt="Typing SVG" />
+  </a>
+  
+  <p align="center">
+    <i>Bridging the gap between robust system administration and advanced software development.</i>
+  </p>
 
-### 💡 About Me
+  <br/>
 
-- 🎓 I'm currently pursuing my **Master's degree in Informatik** at **TU Darmstadt**, Germany.  
-- 💼 I have **3+ years of industry experience** as a Backend Developer in Iran.  
-- 💻 My main stack includes **Python**, **Django**, **REST APIs**, **PostgreSQL** and **Machinelearning**.  
-- 🔍 I'm currently looking for **Werkstudent or Internship opportunities** in backend development.
+  <!-- 3. Clean, Minimalist Badges for Tech Stack -->
+  <h3>Tech Stack & Expertise</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
 
----
+  <br/>
 
-### 🛠️ Tech Stack
+  <!-- 4. Structured Focus Areas (Looks like a website feature section) -->
+  <h3>Current Focus</h3>
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td align="center" width="250" style="border: none;">
+        <b>🔒 System Security</b><br/>
+        Studying M.Sc. IT-Security at TU Darmstadt, exploring PAM modules and forensics.
+      </td>
+      <td align="center" width="250" style="border: none;">
+        <b>📱 Mobile & Networking</b><br/>
+        Developing ATAK Android plugins and implementing network protocols (DTN7).
+      </td>
+      <td align="center" width="250" style="border: none;">
+        <b>⚙️ Simulation Logic</b><br/>
+        Focusing purely on core software engineering and simulation logic architecture.
+      </td>
+    </tr>
+  </table>
 
-- 💻 **Languages:** Python, Java, Kotlin
-- 🔧 **Frameworks:** Django, FastAPI, Flask
-- 🗄️ **Databases:** PostgreSQL, SQLite  
-- 🧪 **Testing:** Pytest, Django TestCase  
-- ⚙️ **Tools:** Git, Docker, Linux, GitHub Actions, VS Code, Pycharm, Android-Studio
-- 🌐 **Others:** REST APIs, Git
+  <br/><br/>
 
----
+  <!-- 5. Invisible/Transparent GitHub Stats (Sleek & Formal) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AliBakhshi274&show_icons=true&theme=transparent&hide_border=true&title_color=20B2AA&text_color=777777&icon_color=20B2AA" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBakhshi274&layout=compact&theme=transparent&hide_border=true&title_color=20B2AA&text_color=777777" alt="Top Languages" width="40%" />
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Price Tracker](https://github.com/AliBakhshi274/price-tracker) | Web app to track product prices and notify users | Django, PostgreSQL |
-| [Movie Recommender](https://github.com/AliBakhshi274/movie-recommender) | Machine learning-based movie suggestion system | Python, scikit-learn |
-| [Custom User Auth](https://github.com/AliBakhshi274/django-custom-auth) | Custom user model and JWT auth implementation | Django |
-
-> ℹ️ *More projects coming soon...*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliBakhshi274&show_icons=true&theme=github_dark" alt="AliBakhshi GitHub Stats" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ali-bakhshi-222648164/)
-- 📧 Email: alibakhshi.bs@gmail.com  
-- 🌍 Portfolio: [coming soon ...](https://my-website)
-
----
-
-<p align="center">
-  <em>“Clean code always looks like it was written by someone who cares.” – Robert C. Martin</em>
-</p>
+</div>
